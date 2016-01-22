@@ -1,0 +1,18 @@
+<rdf:RDF>
+  <pgterms:ebook rdf:about="ebooks/132">
+    <dcterms:subject>
+      <rdf:Description>
+        <dcam:memberOf rdf:resource="http://purl.org/dc/terms/LCSH"/>
+        <rdf:value>Military art and science -- Early works to 1800</rdf:value>
+        <rdf:value>War -- Early works to 1800</rdf:value>
+      </rdf:Description>
+    </dcterms:subject>
+    <dcterms:title>The Art of War</dcterms:title>
+    </pgterms:ebook>
+    <pgterms:agent rdf:about="2009/agents/4349">
+      <pgterms:name>Sunzi (6th cent. BC)</pgterms:name>
+    </pgterms:agent>
+    <pgterms:agent rdf:about="2009/agents/5101">
+    <pgterms:name>Giles, Lionel</pgterms:name>
+  </pgterms:agent>
+</rdf:RDF>
